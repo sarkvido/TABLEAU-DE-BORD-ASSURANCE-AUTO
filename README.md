@@ -10,3 +10,4 @@ Quelques Indicateurs pertinents
 6. Sexe des assurés
 7. Gravités des accidents 
 
+![This is image](url de ton image)
